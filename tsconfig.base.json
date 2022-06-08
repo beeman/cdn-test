@@ -14,7 +14,9 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@cdn-test/keypair": ["libs/keypair/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
