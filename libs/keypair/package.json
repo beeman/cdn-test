@@ -1,7 +1,7 @@
 {
   "name": "@cdn-test/keypair",
-  "version": "1.1.1",
-  "license": "MIT",
+  "version": "0.0.1",
+  "type": "commonjs",
   "dependencies": {
     "@scure/bip39": "^1.0.0",
     "@solana/web3.js": "^1.43.6",

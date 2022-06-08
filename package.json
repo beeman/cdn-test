@@ -11,6 +11,7 @@
   "dependencies": {
     "@scure/bip39": "^1.0.0",
     "@solana/web3.js": "^1.43.6",
+    "@swc/helpers": "~0.3.3",
     "bs58": "^5.0.0",
     "tslib": "^2.3.0"
   },
@@ -23,6 +24,7 @@
     "@nrwl/nx-cloud": "latest",
     "@nrwl/web": "^14.2.2",
     "@nrwl/workspace": "14.2.2",
+    "@swc/cli": "~0.1.55",
     "@swc/core": "^1.2.197",
     "@swc/jest": "0.2.20",
     "@types/bs58": "^4.0.1",
