@@ -1,11 +1,12 @@
 {
   "name": "@cdn-test/keypair",
-  "version": "0.0.1",
+  "version": "1.2.0",
   "type": "commonjs",
   "dependencies": {
     "@scure/bip39": "^1.0.0",
     "@solana/web3.js": "^1.43.6",
     "bs58": "^5.0.0",
     "create-hmac": "^1.1.7"
-  }
+  },
+  "license": "MIT"
 }
